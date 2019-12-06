@@ -1,0 +1,25 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+  
+  
+  }
+  
+  .container{
+  
+    box-sizing: border-box;
+  
+    position: relative;
+    z-index: 9;
+  
+  }
+  .frame{
+    height: 860px;
+    width: 600px;
+    
+    
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+    color: #000000;
+  }
